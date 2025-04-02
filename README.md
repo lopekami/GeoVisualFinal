@@ -1,2 +1,2 @@
-# 411Final
-Final Project 411 Network Analysis
+# GeoVisualFinal
+Kamila L & Mia C
