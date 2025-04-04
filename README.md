@@ -1,6 +1,8 @@
 # GeoVisualFinal
 Project by Kamila L & Mia C
+
 BIS 343: GeoVisulization
+
 Spring 2025
 
 #### Table of Contents
