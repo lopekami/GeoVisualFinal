@@ -27,14 +27,14 @@ Spring 2025
 #### Week 7:
 - Have the data be cleaned and ready to use.
 - Have the data loaded/connected to pycharm.
-- Some preliminary maps?
+- Some preliminary maps in order to decide final direction.
 
 #### Wekk 8:
 - At least two maps.
 - Begin writing out the paper.
 
 #### Week 9:
-- Have shit done.
+- Have shit done, at least 50% of the paper.
 - Final touches.
 
 #### Week 10:
