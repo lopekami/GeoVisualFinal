@@ -47,3 +47,5 @@ Spring 2025
 **_TODO:_** Put all citations here, and make them the proper format.
 
 https://www.census.gov/programs-surveys/community-resilience-estimates/data/cre-pr.html
+
+https://github.com/jpadilla/tracking-luma-outages?tab=readme-ov-file
