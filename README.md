@@ -10,7 +10,7 @@ Spring 2025
 - Documentation & Links
 
 ## Project Description
- This is our final project, made using python.
+ This is our final project, made using python and US Census Data about Puerto Rico. Using this
  
  **_TODO:_** Add more onto the project description.
 
@@ -20,16 +20,16 @@ Spring 2025
 ## Proposed Project Plan
 **_TODO:_** Clean up the loose project plan and get it approved by Kami.
 
-#### Week 3:
-- Have data gathered/sourced.
-- Have a direction to head into.
+#### Week 6:
+- We will be using the data from "https://www.census.gov/programs-surveys/community-resilience-estimates/data/cre-pr.html".
+- Map Ideas: Broadband Internet, Vehicle Accesss, Unit-leveling Crowding
 
-#### Week 5:
+#### Week 7:
 - Have the data be cleaned and ready to use.
 - Have the data loaded/connected to pycharm.
 - Some preliminary maps?
 
-#### Wekk 7:
+#### Wekk 8:
 - At least two maps.
 - Begin writing out the paper.
 
@@ -44,4 +44,6 @@ Spring 2025
 **_TODO:_** Put backgroud information about the project.
 
 ## Citations
-**_TODO:_** Put all citations here.
+**_TODO:_** Put all citations here, and make them the proper format.
+
+https://www.census.gov/programs-surveys/community-resilience-estimates/data/cre-pr.html
